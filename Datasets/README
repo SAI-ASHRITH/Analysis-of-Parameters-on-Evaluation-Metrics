@@ -1,2 +1,5 @@
-For the project we have used three datasets, all belonging to Amazon Review Data. A variety of data was available, of which we chose ‘Rating-Only’ datasets, which contained at most four columns (User, Item, Rating, Timestamp). Other available datasets contained reviews, images and other metadata.
+For the project we have used three datasets, all belonging to Amazon Review Data.
+A variety of data was available, of which we chose ‘Rating-Only’ datasets,
+which contained at most four columns (User, Item, Rating, Timestamp). 
+Other available datasets contained reviews, images and other metadata.
 Source: https://nijianmo.github.io/amazon/index.html
