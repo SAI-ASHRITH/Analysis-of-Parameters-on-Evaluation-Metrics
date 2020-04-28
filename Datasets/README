@@ -2,4 +2,9 @@ For the project we have used three datasets, all belonging to Amazon Review Data
 A variety of data was available, of which we chose ‘Rating-Only’ datasets,
 which contained at most four columns (User, Item, Rating, Timestamp). 
 Other available datasets contained reviews, images and other metadata.
+
+Datasets were too large to upload. Please use the following links.
 Source: https://nijianmo.github.io/amazon/index.html
+Books Dataset: http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Books.csv
+Electronics Dataset: http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Electronics.csv
+Movies and TV Dataset: http://deepyeti.ucsd.edu/jianmo/amazon/categoryFilesSmall/Movies_and_TV.csv
