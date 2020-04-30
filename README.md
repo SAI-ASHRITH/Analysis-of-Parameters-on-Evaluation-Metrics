@@ -16,12 +16,18 @@ There are 3 different datasets considered from Amazon Ratings Datasets which can
 
 ##### Visualizations and Graphs:
 
-The Graphs folder contains all the graphs related to all the 3 datasets based on 4 algorithms used for the analysis - SVD, NMF, Decision Tree Regressor and Random Forest Regressor.
+The Graphs folder contains all the graphs related to all the 3 datasets based on 4 algorithms used for the analysis:
+###### 1. Matrix Factorization-based Algorithms:
+######      Singular Value Decomposition (SVD)
+######      Non-negative Matrix Factorization (NMF)
+###### 2. Advanced Algorithms:
+######     Decision Tree Regressor
+######     Random Forest Regressor.
 
 ##### Source Codes (Jupyter Notebooks):
 
-###### 1. The notebook CMPE_256_Master_EC.ipynb is the jupyter notebook that contains the preprocessing as well as all the results from the models used on Electronics Dataset.
+###### 1. CMPE_256_Master_EC.ipynb: The jupyter notebook that contains the preprocessing as well as all the results from the models used on Electronics Dataset.
 
-###### 2. The notebook CMPE_256_Master_MTV.ipynb contains the preprocessing as well as all the results from the models used on Movies and TV Dataset.
+###### 2. CMPE_256_Master_MTV.ipynb: The jupyter notebook that contains the preprocessing as well as all the results from the models used on Movies and TV Dataset.
 
-###### 3. The notebook CMPE_256_Master_BK.ipynb contains the preprocessing as well as all the results from the models used on Books Dataset.
+###### 3. CMPE_256_Master_BK.ipynb: The jupyter notebook that contains the preprocessing as well as all the results from the models used on Books Dataset.
